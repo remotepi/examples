@@ -18,5 +18,8 @@ Download application from the AppStore: https://itunes.apple.com/us/app/remote-p
 
 Follow us on Facebook: http://facebook.com/RemotePi
 
+Follow author on Twitter: http://twitter.com/luisartola
+
 Contact author: luis at remotepi dot io
+
 
