@@ -3,9 +3,9 @@ Remote Pi Examples
 
 Use Remote Pi iOS app as a remote controller for your own Raspberry Pi and Linux applications.
 
-Remote Pi lets your use your iPhone, iPad and iPod touch as a wireless keyboard and trackpad for your Raspberry Pi. You can leverage this functionality and have add remote control to your own applications by simply responding to keyboard and mouse events. This repository contains simple examples of how you can accomplish this.
+Remote Pi lets your use your iPhone, iPad and iPod touch as a wireless keyboard and trackpad for your Raspberry Pi - and Linux too! You can leverage this functionality and add remote control to your own applications by simply responding to keyboard and mouse events. This repository contains simple examples of how you can accomplish this.
 
-The majority of examples will be based on PyGame. This is readily available in Raspberry Pi computers and other Linux systems as well. So you can try this out with minimal effort. 
+The majority of examples will be based on PyGame so you can try this out with minimal effort. PyGame is readily available in Raspberry Pi computers and other Linux systems as well. 
 
 Want to contribute examples? Please do! Fork the repository and send pull requests.
 
