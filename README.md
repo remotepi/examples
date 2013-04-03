@@ -20,6 +20,8 @@ Follow us on Facebook: http://facebook.com/RemotePi
 
 Follow author on Twitter: http://twitter.com/luisartola
 
+Watch demo videos on Vimeo: https://vimeo.com/channels/remotepi
+
 Contact author: luis at remotepi dot io
 
 

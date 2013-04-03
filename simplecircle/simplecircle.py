@@ -31,6 +31,8 @@ touch. Displays a green circle on a window that follows the mouse cursor
 as you drag your finger on your iOS device surface. Tap to pin a circle at
 the current mouse pointer position.
 
+Checkout video at http://vimeo.com/63726089
+
 Author: luis at remotepi dot io
 Created: 2013.04.09
 '''
