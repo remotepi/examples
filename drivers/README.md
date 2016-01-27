@@ -7,12 +7,13 @@ Two easy steps:
 
 1. Download driver
 
-    - Raspberry Pi: remotepi_1.0.15_armhf.deb
+    - Ubuntu 14.04.2 64-bit: remotepi_1.0.16_amd64.deb
+    - Raspberry Pi: remotepi_1.0.16_armhf.deb
     - Ubuntu 11.10: remotepi_1.0.15_i386.deb
 
 2. Install driver, example for Raspberry Pi:
 
-    sudo dpkg -i remotepi_1.0.15_armhf.deb
+    sudo dpkg -i remotepi_1.0.16_armhf.deb
     sudo /etc/init.d/remotepi start
 
 More information about the installed driver:
